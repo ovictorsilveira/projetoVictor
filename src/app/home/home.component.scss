@@ -12,35 +12,3 @@
   background: -moz-linear-gradient(-135deg, #c850c0, #4158d0);
   background: linear-gradient(-135deg, #c850c0, #4158d0);
 }
-
-.home_login {
-  background: #fff;
-  border-radius: 10px;
-  overflow: hidden;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  padding: 100px;
-}
-
-.home_form {
-  display: flex;
-  justify-content: center;
-  width: 100%;
-  margin: auto;
-  flex-direction: column;
-}
-
-.login_buttons {
-  display: flex;
-  flex-direction: column;
-}
-
-.login_button {
-  display: flex;
-  flex-direction: column;
-  margin: 5px;
-}
-.m_10{
-  margin: 10px;
-}
